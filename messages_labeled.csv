@@ -1,0 +1,101 @@
+id,timestamp,sender,channel,message,intent,product,direction,instrument,amount,price
+MSG-0001,2025-01-15T06:13:30Z,Sarah Mitchell @ Meridian Markets,broker-chat,mkt in USDCAD: 0.7399 / 0.7402,price_quote,FX,two_way,USDCAD,,0.7399/0.7402
+MSG-0002,2025-01-15T06:34:35Z,David Laurent @ Crescent Capital,broker-chat,I have GBPUSD 0.8386 / 0.8391 live,price_quote,FX,two_way,GBPUSD,,0.8386/0.8391
+MSG-0003,2025-01-15T06:37:04Z,Yuki Tanaka @ Pacific Securities,sales-desk,hearing large sovereign buying in EURUSD through Asian desks overnight,market_commentary,,,,,
+MSG-0004,2025-01-15T06:51:42Z,Mike (Sales),sales-desk,"saw your email, will respond properly after lunch",noise,,,,,
+MSG-0005,2025-01-15T06:53:35Z,Tom Richards @ Summit Brokerage,broker-chat,USDJPY 140.6/140.61,price_quote,FX,two_way,USDJPY,,140.6/140.61
+MSG-0006,2025-01-15T06:54:55Z,Tom Richards @ Summit Brokerage,broker-chat,gm,noise,,,,,
+MSG-0007,2025-01-15T07:17:09Z,Yuki Tanaka @ Pacific Securities,broker-chat,"large seller in META, can offer at 285.2 for 35k",price_quote,equity,sell,META,35k shares,285.2
+MSG-0008,2025-01-15T07:20:23Z,Tom Richards @ Summit Brokerage,broker-chat,OAT 10Y offered at 2.757 for 25mm,price_quote,bonds,sell,OAT 10Y,25mm,2.757
+MSG-0009,2025-01-15T07:22:35Z,Sarah Mitchell @ Meridian Markets,sales-desk,"treasury auction went poorly, tail of 2bp, 10Y selling off",market_commentary,,,,,
+MSG-0010,2025-01-15T07:25:24Z,Laura (Risk),sales-desk,"swap spreads compressing, seeing pension fund duration extension",market_commentary,,,,,
+MSG-0011,2025-01-15T07:26:21Z,Alex Chen @ Apex Capital,broker-chat,"client needs 20m EURJPY, what can you do?",rfq,FX,unspecified,EURJPY,20m,
+MSG-0012,2025-01-15T07:27:14Z,Lucas Weber @ Titan Brokers,broker-chat,"large seller in AMZN, can offer at 249.85 for 36k",price_quote,equity,sell,AMZN,36k shares,249.85
+MSG-0013,2025-01-15T07:33:09Z,Chris (Middle Office),sales-desk,"risk limits reset for the new month, please check your allocations",operational,,,,,
+MSG-0014,2025-01-15T07:40:50Z,Laura (Risk),sales-desk,quarterly best execution report due next Wednesday,operational,,,,,
+MSG-0015,2025-01-15T07:49:15Z,Sarah Mitchell @ Meridian Markets,broker-chat,"new client onboarding complete for Crescent Capital, they're live",operational,,,,,
+MSG-0016,2025-01-15T08:08:30Z,Alex Chen @ Apex Capital,broker-chat,"looking for a price in NZDUSD, 200m clip",rfq,FX,unspecified,NZDUSD,200m,
+MSG-0017,2025-01-15T08:26:56Z,David Laurent @ Crescent Capital,broker-chat,MSFT offered at 145.96 for 27k shares,price_quote,equity,sell,MSFT,27k shares,145.96
+MSG-0018,2025-01-15T08:27:17Z,Lucas Weber @ Titan Brokers,broker-chat,"need a market in GOOGL, 74k shares",rfq,equity,unspecified,GOOGL,74k shares,
+MSG-0019,2025-01-15T08:32:18Z,Alex Chen @ Apex Capital,broker-chat,need a price in 50m USDCAD,rfq,FX,unspecified,USDCAD,50m,
+MSG-0020,2025-01-15T08:37:14Z,James O'Brien @ Northpoint Securities,broker-chat,"client needs 50m USDCAD, what can you do?",rfq,FX,unspecified,USDCAD,50m,
+MSG-0021,2025-01-15T08:48:07Z,Priya Sharma @ Eastbridge Partners,broker-chat,"looking for a bid on MSFT block, ~75k",rfq,equity,sell,MSFT,75k shares,
+MSG-0022,2025-01-15T09:01:28Z,Tom Richards @ Summit Brokerage,broker-chat,showing UST 2Y at 5.128 in 5mm,price_quote,bonds,two_way,UST 2Y,5mm,5.128
+MSG-0023,2025-01-15T09:02:30Z,Priya Sharma @ Eastbridge Partners,broker-chat,mkt in GBPUSD: 0.6617 / 0.6618,price_quote,FX,two_way,GBPUSD,,0.6617/0.6618
+MSG-0024,2025-01-15T09:13:04Z,James O'Brien @ Northpoint Securities,broker-chat,lunch?,noise,,,,,
+MSG-0025,2025-01-15T09:47:02Z,Yuki Tanaka @ Pacific Securities,broker-chat,GBPJPY spot 103.81/103.86 good for 50m,price_quote,FX,two_way,GBPJPY,50m,103.81/103.86
+MSG-0026,2025-01-15T09:47:32Z,Mike (Sales),internal,"hey, how was your weekend?",noise,,,,,
+MSG-0027,2025-01-15T09:51:48Z,Mike (Sales),sales-desk,equity index futures pointing to a gap lower at the open,market_commentary,,,,,
+MSG-0028,2025-01-15T09:57:54Z,Emma Fitzgerald @ Pinnacle Markets,broker-chat,JGB 10Y mkt: 4.16 / 4.11,price_quote,bonds,two_way,JGB 10Y,,4.16/4.11
+MSG-0029,2025-01-15T10:13:02Z,Sarah Mitchell @ Meridian Markets,internal,compliance reminder: all trades over 50mm need pre-approval,operational,,,,,
+MSG-0030,2025-01-15T10:24:43Z,Yuki Tanaka @ Pacific Securities,broker-chat,lol,noise,,,,,
+MSG-0031,2025-01-15T10:29:43Z,Lucas Weber @ Titan Brokers,broker-chat,AUDUSD 0.8391/0.8393,price_quote,FX,two_way,AUDUSD,,0.8391/0.8393
+MSG-0032,2025-01-15T10:44:27Z,Tom Richards @ Summit Brokerage,broker-chat,"can show you 1.2829/1.2831 in EURUSD, up to 100m",price_quote,FX,two_way,EURUSD,100m,1.2829/1.2831
+MSG-0033,2025-01-15T10:55:41Z,David Laurent @ Crescent Capital,broker-chat,showing UST 10Y at 4.716 in 5mm,price_quote,bonds,two_way,UST 10Y,5mm,4.716
+MSG-0034,2025-01-15T11:00:48Z,Sarah Mitchell @ Meridian Markets,sales-desk,"SSI enrichment failed for 3 trades, manual intervention needed",operational,,,,,
+MSG-0035,2025-01-15T11:16:15Z,Lucas Weber @ Titan Brokers,broker-chat,"BoE decision Thursday, market pricing 60% chance of a hold",market_commentary,,,,,
+MSG-0036,2025-01-15T11:21:43Z,Tom Richards @ Summit Brokerage,broker-chat,"looking to buy 10mm Bund 10Y, where are you?",rfq,bonds,buy,Bund 10Y,10mm,
+MSG-0037,2025-01-15T11:38:49Z,Sarah Mitchell @ Meridian Markets,broker-chat,I have EURUSD 0.9624 / 0.9627 live,price_quote,FX,two_way,EURUSD,,0.9624/0.9627
+MSG-0038,2025-01-15T11:51:27Z,Maria Santos @ Atlantic Trading,broker-chat,"need a market in AMZN, 34k shares",rfq,equity,unspecified,AMZN,34k shares,
+MSG-0039,2025-01-15T11:59:28Z,Alex Chen @ Apex Capital,broker-chat,inflows into money market funds hit record $6.2tn this week,market_commentary,,,,,
+MSG-0040,2025-01-15T12:04:56Z,David Laurent @ Crescent Capital,broker-chat,"I'm 401.07 on GS, 33k available",price_quote,equity,two_way,GS,33k shares,401.07
+MSG-0041,2025-01-15T12:21:53Z,Chris (Middle Office),sales-desk,please update your P&L by 17:00 for month-end,operational,,,,,
+MSG-0042,2025-01-15T12:32:47Z,Maria Santos @ Atlantic Trading,broker-chat,"GBPJPY 119.45-119.46 for 5m, firm 30s",price_quote,FX,two_way,GBPJPY,5m,119.45/119.46
+MSG-0043,2025-01-15T12:37:19Z,James O'Brien @ Northpoint Securities,sales-desk,"rates market feels heavy, seeing real money selling in 10Y",market_commentary,,,,,
+MSG-0044,2025-01-15T13:02:18Z,Priya Sharma @ Eastbridge Partners,broker-chat,showing UST 5Y at 4.625 in 5mm,price_quote,bonds,two_way,UST 5Y,5mm,4.625
+MSG-0045,2025-01-15T13:08:32Z,Sarah Mitchell @ Meridian Markets,sales-desk,can you send me that spreadsheet again?,noise,,,,,
+MSG-0046,2025-01-15T13:19:10Z,Yuki Tanaka @ Pacific Securities,broker-chat,EURJPY spot 145.95/145.97 good for 100m,price_quote,FX,two_way,EURJPY,100m,145.95/145.97
+MSG-0047,2025-01-15T13:55:07Z,James O'Brien @ Northpoint Securities,sales-desk,"Japanese wage data surprised to the upside, BOJ rate hike expectations building",market_commentary,,,,,
+MSG-0048,2025-01-15T14:28:51Z,Maria Santos @ Atlantic Trading,sales-desk,"thx for the intro to their PM, very helpful",noise,,,,,
+MSG-0049,2025-01-15T14:36:00Z,David Laurent @ Crescent Capital,broker-chat,"I can offer UST 30Y at 1.707, 25mm clip",price_quote,bonds,sell,UST 30Y,25mm,1.707
+MSG-0050,2025-01-15T14:47:22Z,Yuki Tanaka @ Pacific Securities,broker-chat,"AUDUSD 1.2187-1.219 for 50m, firm 30s",price_quote,FX,two_way,AUDUSD,50m,1.2187/1.219
+MSG-0051,2025-01-15T14:56:00Z,David Laurent @ Crescent Capital,sales-desk,👍,noise,,,,,
+MSG-0052,2025-01-15T15:02:28Z,Tom Richards @ Summit Brokerage,broker-chat,showing Bund 10Y at 3.964 in 50mm,price_quote,bonds,two_way,Bund 10Y,50mm,3.964
+MSG-0053,2025-01-15T15:06:51Z,Emma Fitzgerald @ Pinnacle Markets,broker-chat,can you quote USDCAD in 20m?,rfq,FX,unspecified,USDCAD,20m,
+MSG-0054,2025-01-15T15:23:07Z,Mike (Sales),sales-desk,"central bank speakers today: ECB at 14:00, Fed minutes at 19:00 GMT",market_commentary,,,,,
+MSG-0055,2025-01-15T15:30:10Z,Emma Fitzgerald @ Pinnacle Markets,broker-chat,UST 10Y 1.598/1.578,price_quote,bonds,two_way,UST 10Y,,1.598/1.578
+MSG-0056,2025-01-15T15:30:16Z,Tom Richards @ Summit Brokerage,broker-chat,"AC is broken again, freezing in here",noise,,,,,
+MSG-0057,2025-01-15T15:38:50Z,Anna (Compliance),sales-desk,"year-end portfolio valuation reports distributed, review by Friday",operational,,,,,
+MSG-0058,2025-01-15T15:40:42Z,Yuki Tanaka @ Pacific Securities,broker-chat,"EURJPY 111.93-111.98 for 10m, firm 30s",price_quote,FX,two_way,EURJPY,10m,111.93/111.98
+MSG-0059,2025-01-15T15:41:43Z,Mike (Sales),sales-desk,"enjoy your holiday, catch up when you're back",noise,,,,,
+MSG-0060,2025-01-15T15:43:46Z,David Laurent @ Crescent Capital,broker-chat,UST 5Y mkt: 3.326 / 3.276,price_quote,bonds,two_way,UST 5Y,,3.326/3.276
+MSG-0061,2025-01-15T15:47:37Z,Emma Fitzgerald @ Pinnacle Markets,broker-chat,"leveraged community reportedly very long USD, positioning feels stretched",market_commentary,,,,,
+MSG-0062,2025-01-15T15:55:14Z,Sarah Mitchell @ Meridian Markets,sales-desk,"credit spreads widening out, IG index +5bp since the open",market_commentary,,,,,
+MSG-0064,2025-01-15T16:51:10Z,James O'Brien @ Northpoint Securities,sales-desk,"rates market feels heavy, seeing real money selling in 10Y",market_commentary,,,,,
+MSG-0065,2025-01-15T16:54:41Z,Emma Fitzgerald @ Pinnacle Markets,broker-chat,need a price in 100m EURUSD,rfq,FX,unspecified,EURUSD,100m,
+MSG-0066,2025-01-15T16:59:17Z,Priya Sharma @ Eastbridge Partners,broker-chat,"thanks for the fill on the JPY, can you also show me GBPUSD in 20m?",rfq,FX,unspecified,GBPUSD,20m,
+MSG-0067,2025-01-15T17:08:33Z,Emma Fitzgerald @ Pinnacle Markets,sales-desk,month-end rebalancing expected to drive USD selling into the fix,market_commentary,,,,,
+MSG-0068,2025-01-15T17:09:00Z,Emma Fitzgerald @ Pinnacle Markets,broker-chat,"USDJPY falling like a stone, 152.80 last. You want to get involved?",market_commentary,FX,,USDJPY,,152.80
+MSG-0069,2025-01-15T17:10:05Z,Anna (Compliance),internal,lunch?,noise,,,,,
+MSG-0070,2025-01-15T17:21:52Z,Maria Santos @ Atlantic Trading,broker-chat,can you offer UST 10Y? looking for 100mm,rfq,bonds,buy,UST 10Y,100mm,
+MSG-0072,2025-01-15T17:29:45Z,James O'Brien @ Northpoint Securities,sales-desk,sorry wrong chat!,noise,,,,,
+MSG-0074,2025-01-15T18:00:26Z,Sarah Mitchell @ Meridian Markets,broker-chat,"audit team requesting trade records for Q3, deadline next Friday",operational,,,,,
+MSG-0075,2025-01-15T18:05:41Z,Priya Sharma @ Eastbridge Partners,internal,"sure thing, will do",noise,,,,,
+MSG-0076,2025-01-15T18:25:32Z,Yuki Tanaka @ Pacific Securities,sales-desk,did you see the game last night? incredible finish,noise,,,,,
+MSG-0077,2025-01-15T18:45:07Z,Tom Richards @ Summit Brokerage,broker-chat,"VIX creeping higher, up to 18 from 15 earlier this week",market_commentary,,,,,
+MSG-0078,2025-01-15T18:46:28Z,Alex Chen @ Apex Capital,broker-chat,"client wants to move 7k BAC, can you work it?",rfq,equity,unspecified,BAC,7k shares,
+MSG-0079,2025-01-15T19:21:41Z,Sarah Mitchell @ Meridian Markets,broker-chat,rfq: 100m EURGBP spot pls,rfq,FX,unspecified,EURGBP,100m,
+MSG-0080,2025-01-15T19:27:44Z,Tom Richards @ Summit Brokerage,broker-chat,"looking for a price in EURJPY, 10m clip",rfq,FX,unspecified,EURJPY,10m,
+MSG-0082,2025-01-15T19:54:04Z,Yuki Tanaka @ Pacific Securities,broker-chat,"looking for a bid on AMZN block, ~13k",rfq,equity,sell,AMZN,13k shares,
+MSG-0083,2025-01-15T19:54:42Z,Yuki Tanaka @ Pacific Securities,broker-chat,"OPEC meeting this weekend, rumours of production cut extension",market_commentary,,,,,
+MSG-0086,2025-01-16T06:16:35Z,Maria Santos @ Atlantic Trading,broker-chat,rfq: UST 2Y 25mm,rfq,bonds,unspecified,UST 2Y,25mm,
+MSG-0089,2025-01-16T06:36:44Z,Maria Santos @ Atlantic Trading,broker-chat,"need a market in NVDA, 74k shares",rfq,equity,unspecified,NVDA,74k shares,
+MSG-0090,2025-01-16T06:53:25Z,Yuki Tanaka @ Pacific Securities,broker-chat,can you quote USDCHF in 100m?,rfq,FX,unspecified,USDCHF,100m,
+MSG-0091,2025-01-16T07:00:45Z,Lucas Weber @ Titan Brokers,broker-chat,"need a market in BAC, 57k shares",rfq,equity,unspecified,BAC,57k shares,
+MSG-0092,2025-01-16T08:00:59Z,Sarah Mitchell @ Meridian Markets,sales-desk,"commodities complex rallying, copper and iron ore both up 3%",market_commentary,,,,,
+MSG-0094,2025-01-16T08:30:09Z,Priya Sharma @ Eastbridge Partners,sales-desk,"emerging market sovereign spreads tightening, risk appetite improving",market_commentary,,,,,
+MSG-0095,2025-01-16T08:39:54Z,Priya Sharma @ Eastbridge Partners,broker-chat,can you offer OAT 10Y? looking for 25mm,rfq,bonds,buy,OAT 10Y,25mm,
+MSG-0096,2025-01-16T08:40:42Z,David Laurent @ Crescent Capital,broker-chat,equity index futures pointing to a gap lower at the open,market_commentary,,,,,
+MSG-0100,2025-01-16T09:29:22Z,Sarah Mitchell @ Meridian Markets,broker-chat,market data vendor contract renewal due in 2 weeks,operational,,,,,
+MSG-0101,2025-01-16T09:39:33Z,Lucas Weber @ Titan Brokers,broker-chat,cheers,noise,,,,,
+MSG-0103,2025-01-16T09:51:33Z,Priya Sharma @ Eastbridge Partners,broker-chat,"client looking for OAT 10Y in size, 5mm",rfq,bonds,unspecified,OAT 10Y,5mm,
+MSG-0104,2025-01-16T09:51:47Z,James O'Brien @ Northpoint Securities,internal,"access rights updated for new joiners, please verify",operational,,,,,
+MSG-0105,2025-01-16T10:02:17Z,James O'Brien @ Northpoint Securities,broker-chat,"that NVDA print was wild. Speaking of which, can you show me 30k shares?",rfq,equity,unspecified,NVDA,30k shares,
+MSG-0107,2025-01-16T10:35:19Z,Emma Fitzgerald @ Pinnacle Markets,sales-desk,"high yield market surprisingly resilient, new issues oversubscribed",market_commentary,,,,,
+MSG-0109,2025-01-16T10:43:52Z,Alex Chen @ Apex Capital,internal,"month-end close process starts at 17:00 sharp, all books must be flat",operational,,,,,
+MSG-0113,2025-01-16T11:20:26Z,Priya Sharma @ Eastbridge Partners,broker-chat,can you offer JGB 10Y? looking for 10mm,rfq,bonds,buy,JGB 10Y,10mm,
+MSG-0114,2025-01-16T11:35:27Z,David Laurent @ Crescent Capital,broker-chat,"client needs 25m GBPUSD, what can you do?",rfq,FX,unspecified,GBPUSD,25m,
+MSG-0145,2025-01-16T15:54:31Z,Ben (IT Support),internal,"voice recording system was down 10:15-10:42, trades during window need manual log",operational,,,,,
+MSG-0148,2025-01-16T16:33:14Z,Sarah Mitchell @ Meridian Markets,broker-chat,"trade break on ref TXN-20240315-001, please investigate",operational,,,,,
+MSG-0149,2025-01-16T16:43:09Z,Anna (Compliance),broker-chat,"pre-trade compliance check failing for bond trades over 100mm, IT investigating",operational,,,,,
+MSG-0151,2025-01-16T16:49:35Z,Laura (Risk),broker-chat,quarterly best execution report due next Wednesday,operational,,,,,
